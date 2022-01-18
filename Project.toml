@@ -1,6 +1,6 @@
 name = "Antlr4CppRuntime_jll"
 uuid = "642bff37-c5db-510f-b67c-24692d406d7f"
-version = "4.9.3+0"
+version = "4.9.3+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
